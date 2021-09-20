@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=16U2_16MHZ_XTAL1 Pin=C27-1
+Removed Pin From Net: NetName=16U2_16MHZ_XTAL1 Pin=R16-1
+Removed Pin From Net: NetName=16U2_16MHZ_XTAL1 Pin=U1-9
+Removed Pin From Net: NetName=16U2_16MHZ_XTAL1 Pin=Y1-1
+Added Pin To Net: NetName=328P_16MHZ_XTAL1 Pin=C27-1
+Added Pin To Net: NetName=328P_16MHZ_XTAL1 Pin=R16-1
+Added Pin To Net: NetName=328P_16MHZ_XTAL1 Pin=U1-9
+Added Pin To Net: NetName=328P_16MHZ_XTAL1 Pin=Y1-1
+Added Net: Name=328P_16MHZ_XTAL1

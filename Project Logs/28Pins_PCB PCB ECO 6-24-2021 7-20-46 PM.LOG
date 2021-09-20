@@ -1,0 +1,157 @@
+Added Component: Designator=J3(HDR_FEMALE_1x8_2.54mm)
+Add component (AddParameter): Name = "Case/Package"; Value = "SIL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/9480/m20-782-9480074.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/9480/m20-782-9480074.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/16732/m20-782-16732663.pdf?src-supplier=Avnet+Europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/16732/m20-782-16732663.pdf?src-supplier=Avnet+Europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Receptacle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin,Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "Female Socket"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Polyamide"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "20.72mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Harwin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "M20-7820842"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "29"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Rail/Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1.18000, 10=1.04100, 100=0.89770, 500=0.73448, 1000=0.65286, 5000=0.57126, 10000=0.54269 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "M20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "1049"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "952-1823-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.025397oz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=IO0 Pin=J3-1
+Added Pin To Net: NetName=IO1 Pin=J3-2
+Added Pin To Net: NetName=IO2 Pin=J3-3
+Added Pin To Net: NetName=IO3 Pin=J3-4
+Added Pin To Net: NetName=IO4 Pin=J3-5
+Added Pin To Net: NetName=IO5 Pin=J3-6
+Added Pin To Net: NetName=IO6 Pin=J3-7
+Added Pin To Net: NetName=IO7 Pin=J3-8
+Added Member To Class: ClassName=28Pins_Schematic Member=Component C1 100uF / 10V
+Added Member To Class: ClassName=28Pins_Schematic Member=Component C2 100uF / 10V
+Added Member To Class: ClassName=28Pins_Schematic Member=Component C3 10uF/16V
+Added Member To Class: ClassName=28Pins_Schematic Member=Component C4 100nF
+Added Member To Class: ClassName=28Pins_Schematic Member=Component C5 100nF
+Added Member To Class: ClassName=28Pins_Schematic Member=Component C6 100nF
+Added Member To Class: ClassName=28Pins_Schematic Member=Component C7 1uF/25V
+Added Member To Class: ClassName=28Pins_Schematic Member=Component C8 100nF
+Added Member To Class: ClassName=28Pins_Schematic Member=Component C9 18pF
+Added Member To Class: ClassName=28Pins_Schematic Member=Component C10 18pF
+Added Member To Class: ClassName=28Pins_Schematic Member=Component C11 100nF
+Added Member To Class: ClassName=28Pins_Schematic Member=Component C12 10uF/16V
+Added Member To Class: ClassName=28Pins_Schematic Member=Component C13 10uF/16V
+Added Member To Class: ClassName=28Pins_Schematic Member=Component C14 100nF
+Added Member To Class: ClassName=28Pins_Schematic Member=Component C15 100nF
+Added Member To Class: ClassName=28Pins_Schematic Member=Component C16 100nF
+Added Member To Class: ClassName=28Pins_Schematic Member=Component C17 100nF
+Added Member To Class: ClassName=28Pins_Schematic Member=Component C19 10uF/16V
+Added Member To Class: ClassName=28Pins_Schematic Member=Component C20 100nF
+Added Member To Class: ClassName=28Pins_Schematic Member=Component C21 10uF/16V
+Added Member To Class: ClassName=28Pins_Schematic Member=Component C22 10uF/16V
+Added Member To Class: ClassName=28Pins_Schematic Member=Component C23 100nF
+Added Member To Class: ClassName=28Pins_Schematic Member=Component C24 100nF
+Added Member To Class: ClassName=28Pins_Schematic Member=Component C25 18pF
+Added Member To Class: ClassName=28Pins_Schematic Member=Component C26 100nF
+Added Member To Class: ClassName=28Pins_Schematic Member=Component C27 18pF
+Added Member To Class: ClassName=28Pins_Schematic Member=Component C28 100nF
+Added Member To Class: ClassName=28Pins_Schematic Member=Component C29 100nF
+Added Member To Class: ClassName=28Pins_Schematic Member=Component C30 100nF
+Added Member To Class: ClassName=28Pins_Schematic Member=Component C31 100nF
+Added Member To Class: ClassName=28Pins_Schematic Member=Component C32 100nF
+Added Member To Class: ClassName=28Pins_Schematic Member=Component C33 100nF
+Added Member To Class: ClassName=28Pins_Schematic Member=Component C34 10uF/16V
+Added Member To Class: ClassName=28Pins_Schematic Member=Component D1 Green
+Added Member To Class: ClassName=28Pins_Schematic Member=Component D2 Orange
+Added Member To Class: ClassName=28Pins_Schematic Member=Component D3 Orange
+Added Member To Class: ClassName=28Pins_Schematic Member=Component D4 Orange
+Added Member To Class: ClassName=28Pins_Schematic Member=Component D5 DIODE RB520S30
+Added Member To Class: ClassName=28Pins_Schematic Member=Component D6 DIODE RB520S30
+Added Member To Class: ClassName=28Pins_Schematic Member=Component FB1 MH2029-221Y
+Added Member To Class: ClassName=28Pins_Schematic Member=Component FB2 MH2029-221Y
+Added Member To Class: ClassName=28Pins_Schematic Member=Component FB3 MH2029-221Y
+Added Member To Class: ClassName=28Pins_Schematic Member=Component FID1 Fiducial 40mil Diameter 120mil solder mask
+Added Member To Class: ClassName=28Pins_Schematic Member=Component FID2 Fiducial 40mil Diameter 120mil solder mask
+Added Member To Class: ClassName=28Pins_Schematic Member=Component FID3 Fiducial 40mil Diameter 120mil solder mask
+Added Member To Class: ClassName=28Pins_Schematic Member=Component FID4 Fiducial 40mil Diameter 120mil solder mask
+Added Member To Class: ClassName=28Pins_Schematic Member=Component J1 HDR FEMALE 1x8 2.54mm
+Added Member To Class: ClassName=28Pins_Schematic Member=Component J2 HDR FEMALE 1x6 2.54mm
+Added Member To Class: ClassName=28Pins_Schematic Member=Component J3 HDR FEMALE 1x8 2.54mm
+Added Member To Class: ClassName=28Pins_Schematic Member=Component J4 HDR FEMALE 1x10 2.54mm
+Added Member To Class: ClassName=28Pins_Schematic Member=Component J5 HDR 2x3
+Added Member To Class: ClassName=28Pins_Schematic Member=Component J6 HDR 2x3
+Added Member To Class: ClassName=28Pins_Schematic Member=Component J7 10118192-0001LF
+Added Member To Class: ClassName=28Pins_Schematic Member=Component J8 4MMX1.5MM
+Added Member To Class: ClassName=28Pins_Schematic Member=Component J9 4MMX1.5MM
+Added Member To Class: ClassName=28Pins_Schematic Member=Component JP1 HDR 1X3
+Added Member To Class: ClassName=28Pins_Schematic Member=Component JP2 HDR 2x2
+Added Member To Class: ClassName=28Pins_Schematic Member=Component JP3 HDR 1X4
+Added Member To Class: ClassName=28Pins_Schematic Member=Component JP4 HDR 1X3
+Added Member To Class: ClassName=28Pins_Schematic Member=Component L1 2u2 / 2A
+Added Member To Class: ClassName=28Pins_Schematic Member=Component MH1 MH_7.4MMNC_3.2MMD
+Added Member To Class: ClassName=28Pins_Schematic Member=Component MH2 MH_7.4MMNC_3.2MMD
+Added Member To Class: ClassName=28Pins_Schematic Member=Component MH3 MH_7.4MMNC_3.2MMD
+Added Member To Class: ClassName=28Pins_Schematic Member=Component MH4 MH_7.4MMNC_3.2MMD
+Added Member To Class: ClassName=28Pins_Schematic Member=Component R1 100k
+Added Member To Class: ClassName=28Pins_Schematic Member=Component R2 560R
+Added Member To Class: ClassName=28Pins_Schematic Member=Component R3 560R
+Added Member To Class: ClassName=28Pins_Schematic Member=Component R4 10k
+Added Member To Class: ClassName=28Pins_Schematic Member=Component R5 22R
+Added Member To Class: ClassName=28Pins_Schematic Member=Component R6 22R
+Added Member To Class: ClassName=28Pins_Schematic Member=Component R7 22R
+Added Member To Class: ClassName=28Pins_Schematic Member=Component R8 0R
+Added Member To Class: ClassName=28Pins_Schematic Member=Component R9 1M
+Added Member To Class: ClassName=28Pins_Schematic Member=Component R10 1K
+Added Member To Class: ClassName=28Pins_Schematic Member=Component R11 1K
+Added Member To Class: ClassName=28Pins_Schematic Member=Component R12 1K
+Added Member To Class: ClassName=28Pins_Schematic Member=Component R13 22R
+Added Member To Class: ClassName=28Pins_Schematic Member=Component R14 10k
+Added Member To Class: ClassName=28Pins_Schematic Member=Component R15 560R
+Added Member To Class: ClassName=28Pins_Schematic Member=Component R16 1M
+Added Member To Class: ClassName=28Pins_Schematic Member=Component R17 560R
+Added Member To Class: ClassName=28Pins_Schematic Member=Component R18 10k
+Added Member To Class: ClassName=28Pins_Schematic Member=Component R19 10k
+Added Member To Class: ClassName=28Pins_Schematic Member=Component R20 10k
+Added Member To Class: ClassName=28Pins_Schematic Member=Component R21 10k
+Added Member To Class: ClassName=28Pins_Schematic Member=Component R22 560R
+Added Member To Class: ClassName=28Pins_Schematic Member=Component R23 22R
+Added Member To Class: ClassName=28Pins_Schematic Member=Component R24 22R
+Added Member To Class: ClassName=28Pins_Schematic Member=Component R25 22R
+Added Member To Class: ClassName=28Pins_Schematic Member=Component R26 0R
+Added Member To Class: ClassName=28Pins_Schematic Member=Component R27 0R
+Added Member To Class: ClassName=28Pins_Schematic Member=Component R28 0R
+Added Member To Class: ClassName=28Pins_Schematic Member=Component SCKT FOR U1 28-DIP Socket
+Added Member To Class: ClassName=28Pins_Schematic Member=Component SW1 TL1105AF160Q
+Added Member To Class: ClassName=28Pins_Schematic Member=Component SW2 TL1105AF160Q
+Added Member To Class: ClassName=28Pins_Schematic Member=Component U1 ATMEGA328P-PU
+Added Member To Class: ClassName=28Pins_Schematic Member=Component U2 ATMEGA16U2-AUR
+Added Member To Class: ClassName=28Pins_Schematic Member=Component U3 TL1963A-33DCQR
+Added Member To Class: ClassName=28Pins_Schematic Member=Component U4 TC7SH09FU,LJ(CT
+Added Member To Class: ClassName=28Pins_Schematic Member=Component U5 TC7SH09FU,LJ(CT
+Added Member To Class: ClassName=28Pins_Schematic Member=Component U6 TC7SH09FU,LJ(CT
+Added Member To Class: ClassName=28Pins_Schematic Member=Component U7 TC7SH09FU,LJ(CT
+Added Member To Class: ClassName=28Pins_Schematic Member=Component Y1 ABM7-16.000MHZ-4-T
+Added Member To Class: ClassName=28Pins_Schematic Member=Component Y2 ABM7-16.000MHZ-4-T
+Added Member To Class: ClassName=28Pins_Schematic Member=Component Z1 CG0603MLC-05LEA
+Added Member To Class: ClassName=28Pins_Schematic Member=Component Z2 CG0603MLC-05LEA
+Added Room: Name=28Pins_Schematic

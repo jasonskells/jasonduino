@@ -1,0 +1,10 @@
+Output: Tango Netlist
+Type  : TangoNetlist
+From  : Project [paid_training.PrjPcb]
+   Generated File[paid_training.NET]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 8:56:21 PM On 6/24/2021

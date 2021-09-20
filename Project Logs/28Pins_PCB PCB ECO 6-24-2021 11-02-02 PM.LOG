@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=MH1-1
+Added Component: Designator=MH1(MH_7.4MMD_3.2MMD)
+Added Component: Designator=MH4(MH_7.2MMD_4.2MMD_NON_COPPER_NPTH)
+Added Pin To Net: NetName=GND Pin=MH1-1
+Added Member To Class: ClassName=28Pins_Schematic Member=Component MH2 MH_7.4MMC_3.2MMD
+Added Member To Class: ClassName=28Pins_Schematic Member=Component MH3 MH_7.4MMC_3.2MMD
+Added Member To Class: ClassName=28Pins_Schematic Member=Component MH4 MH_7.4MMNC_3.2MMD
