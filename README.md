@@ -1,7 +1,7 @@
 # jasonduino
 This is my arduino clone, jasonduino. 
 
-I did the schematic entry and PCB layout in Altium Designer.
+The schematic entry, footprint and symbol creation, and PCB layout was done in Altium Designer.
 
 Images of the Jasonduino - an Arduino clone based on the ATmega328
 ------------
